@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WebAppUploadFile:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="WebAppUploadFile.war">
+      <element id="artifact" artifact-name="WebAppUploadFile:war exploded" />
+    </root>
+  </artifact>
+</component>
